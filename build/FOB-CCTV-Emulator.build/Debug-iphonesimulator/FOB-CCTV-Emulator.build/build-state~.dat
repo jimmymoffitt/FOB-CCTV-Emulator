@@ -1,0 +1,258 @@
+TFOB-CCTV-Emulator
+v7
+r0
+t477098398.385998
+cCheck dependencies
+cProcessInfoPlistFile /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/Info.plist FOB_CCTV_Emulator-Info.plist
+cCompileXIB /Users/slick_admin/git/FOB-CCTV-Emulator/MainWindow.xib
+cCompileXIB /Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_EmulatorViewController.xib
+cProcessPCH /var/folders/cf/cfqUTZJWGu4ryvhJw3dD0++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/FOB_CCTV_Emulator_Prefix-ewtkjvixrcryrcgtkgrufmfpwopu/FOB_CCTV_Emulator_Prefix.pch.gch FOB_CCTV_Emulator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/main.o /Users/slick_admin/git/FOB-CCTV-Emulator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorAppDelegate.o /Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorViewController.o /Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator normal i386
+cGenerateDSYMFile /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app.dSYM /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator
+cTouch /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorAppDelegate.h
+c0000000056BFA740000000000000021A
+t1455400768
+s538
+i<UIKit/UIKit.h>
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorAppDelegate.m
+c0000000056BFA7400000000000000ADB
+t1455400768
+s2779
+i"FOB_CCTV_EmulatorAppDelegate.h"
+i"FOB_CCTV_EmulatorViewController.h"
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorViewController.h
+c0000000056BFA740000000000000010B
+t1455400768
+s267
+i<UIKit/UIKit.h>
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorViewController.m
+c0000000056BFABB300000000000005F3
+t1455401907
+s1523
+i"FOB_CCTV_EmulatorViewController.h"
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_EmulatorViewController.xib
+c0000000056BFA7400000000000001A6D
+t1455400768
+s6765
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_Emulator_Prefix.pch
+c0000000056BFA74000000000000000CB
+t1455400768
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/MainWindow.xib
+c0000000056BFA7400000000000004EA1
+t1455400768
+s20129
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app
+t1455405598
+s238
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app.dSYM
+t1455405598
+s102
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator
+t1455405598
+s17600
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB_CCTV_EmulatorViewController.nib
+t1455405596
+s1269
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/Info.plist
+t1455405595
+s637
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/MainWindow.nib
+t1455405596
+s1701
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/PkgInfo
+t1455405595
+s8
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB-CCTV-Emulator.LinkFileList
+c0000000056BFBA1B00000000000001E3
+t1455405595
+s483
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorAppDelegate.o
+t1455405597
+s51888
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorViewController.o
+t1455405597
+s38160
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/main.o
+t1455405597
+s6316
+
+N/Users/slick_admin/git/FOB-CCTV-Emulator/main.m
+c0000000056BFA7400000000000000172
+t1455400768
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/cf/cfqUTZJWGu4ryvhJw3dD0++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/FOB_CCTV_Emulator_Prefix-ewtkjvixrcryrcgtkgrufmfpwopu/FOB_CCTV_Emulator_Prefix.pch.gch
+t1455405597
+s15814064
+
+NFOB_CCTV_Emulator-Info.plist
+c0000000056BFA740000000000000038D
+t1455400768
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies477098395#477098395#0(0"0(0#1#0"31525334837231728#0"0#
+
+CCompileC build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorAppDelegate.o /Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s477098397.508315
+e477098397.704361
+r1
+xCompileC
+xbuild/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorAppDelegate.o
+x/Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorAppDelegate.m477098397#477098397#0(0"0(0#0#79"/Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorAppDelegate.m8602755456#2254"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-generated-files.hmap -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-own-target-headers.hmap -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-all-target-headers.hmap -iquote /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-project-headers.hmap -F/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/include -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/DerivedSources/i386 -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/DerivedSources -include /var/folders/cf/cfqUTZJWGu4ryvhJw3dD0++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/FOB_CCTV_Emulator_Prefix-ewtkjvixrcryrcgtkgrufmfpwopu/FOB_CCTV_Emulator_Prefix.pch -c /Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorAppDelegate.m -o /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorAppDelegate.o0#
+
+CCompileC build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorViewController.o /Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s477098397.702774
+e477098397.786800
+r1
+xCompileC
+xbuild/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorViewController.o
+x/Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorViewController.m477098397#477098397#0(0"0(0#0#82"/Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorViewController.m8603063616#2260"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-generated-files.hmap -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-own-target-headers.hmap -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-all-target-headers.hmap -iquote /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-project-headers.hmap -F/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/include -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/DerivedSources/i386 -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/DerivedSources -include /var/folders/cf/cfqUTZJWGu4ryvhJw3dD0++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/FOB_CCTV_Emulator_Prefix-ewtkjvixrcryrcgtkgrufmfpwopu/FOB_CCTV_Emulator_Prefix.pch -c /Users/slick_admin/git/FOB-CCTV-Emulator/Classes/FOB_CCTV_EmulatorViewController.m -o /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB_CCTV_EmulatorViewController.o0#
+
+CCompileC build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/main.o /Users/slick_admin/git/FOB-CCTV-Emulator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s477098397.507063
+e477098397.702638
+r1
+xCompileC
+xbuild/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/main.o
+x/Users/slick_admin/git/FOB-CCTV-Emulator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/slick_admin/git/FOB-CCTV-Emulator/main.m477098397#477098397#0(0"0(0#0#47"/Users/slick_admin/git/FOB-CCTV-Emulator/main.m8603476352#2198"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-generated-files.hmap -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-own-target-headers.hmap -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-all-target-headers.hmap -iquote /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-project-headers.hmap -F/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/include -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/DerivedSources/i386 -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/DerivedSources -include /var/folders/cf/cfqUTZJWGu4ryvhJw3dD0++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/FOB_CCTV_Emulator_Prefix-ewtkjvixrcryrcgtkgrufmfpwopu/FOB_CCTV_Emulator_Prefix.pch -c /Users/slick_admin/git/FOB-CCTV-Emulator/main.m -o /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_EmulatorViewController.xib
+s477098395.257436
+e477098396.119642
+r1
+xCompileXIB
+x/Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_EmulatorViewController.xib
+o2016-02-13 16:19:55.768 Interface Builder Cocoa Touch Tool[702:1803] CFPreferences: user home directory at file://localhost/Users/slick_admin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@46"CompileXIB FOB_CCTV_EmulatorViewController.xib477098395#477098396#0(244"2016-02-13 16:19:55.768 Interface Builder Cocoa Touch Tool[702:1803] CFPreferences: user home directory at file://localhost/Users/slick_admin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#76"/Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_EmulatorViewController.xib8604312736#690"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB_CCTV_EmulatorViewController.nib /Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_EmulatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/slick_admin/git/FOB-CCTV-Emulator/MainWindow.xib
+s477098395.255482
+e477098396.119452
+r1
+xCompileXIB
+x/Users/slick_admin/git/FOB-CCTV-Emulator/MainWindow.xib
+o2016-02-13 16:19:55.766 Interface Builder Cocoa Touch Tool[703:1803] CFPreferences: user home directory at file://localhost/Users/slick_admin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib477098395#477098396#0(244"2016-02-13 16:19:55.766 Interface Builder Cocoa Touch Tool[703:1803] CFPreferences: user home directory at file://localhost/Users/slick_admin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#55"/Users/slick_admin/git/FOB-CCTV-Emulator/MainWindow.xib8597879040#648"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/MainWindow.nib /Users/slick_admin/git/FOB-CCTV-Emulator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app.dSYM /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator
+s477098398.237684
+e477098398.312246
+r1
+xGenerateDSYMFile
+x/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app.dSYM
+x/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/FOB-CCTV-Emulator.app.dSYM build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator477098398#477098398#0(0"0(0#0#108"/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator8602760960#481"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator -o /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app.dSYM0#
+
+CLd /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator normal i386
+s477098397.786909
+e477098398.237552
+r1
+xLd
+x/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator
+xnormal
+xi386
+lSLF07#2@113"Link /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator477098397#477098398#0(0"0(0#0#0"8602591776#1022"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator -F/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator -filelist /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/Objects-normal/i386/FOB-CCTV-Emulator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/FOB-CCTV-Emulator0#
+
+CProcessInfoPlistFile /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/Info.plist FOB_CCTV_Emulator-Info.plist
+s477098395.213014
+e477098395.255360
+r1
+xProcessInfoPlistFile
+x/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/Info.plist
+xFOB_CCTV_Emulator-Info.plist
+lSLF07#2@36"Process FOB_CCTV_Emulator-Info.plist477098395#477098395#0(0"0(0#0#69"/Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_Emulator-Info.plist12948338562236532#577"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility FOB_CCTV_Emulator-Info.plist -genpkginfo /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app/Info.plist0#
+
+CProcessPCH /var/folders/cf/cfqUTZJWGu4ryvhJw3dD0++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/FOB_CCTV_Emulator_Prefix-ewtkjvixrcryrcgtkgrufmfpwopu/FOB_CCTV_Emulator_Prefix.pch.gch FOB_CCTV_Emulator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s477098396.119882
+e477098397.506825
+r1
+xProcessPCH
+x/var/folders/cf/cfqUTZJWGu4ryvhJw3dD0++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/FOB_CCTV_Emulator_Prefix-ewtkjvixrcryrcgtkgrufmfpwopu/FOB_CCTV_Emulator_Prefix.pch.gch
+xFOB_CCTV_Emulator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile FOB_CCTV_Emulator_Prefix.pch477098396#477098397#0(0"0(0#0#69"/Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_Emulator_Prefix.pch8602906496#2078"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-generated-files.hmap -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-own-target-headers.hmap -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-all-target-headers.hmap -iquote /Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/FOB-CCTV-Emulator-project-headers.hmap -F/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/include -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/DerivedSources/i386 -I/Users/slick_admin/git/FOB-CCTV-Emulator/build/FOB-CCTV-Emulator.build/Debug-iphonesimulator/FOB-CCTV-Emulator.build/DerivedSources -c /Users/slick_admin/git/FOB-CCTV-Emulator/FOB_CCTV_Emulator_Prefix.pch -o /var/folders/cf/cfqUTZJWGu4ryvhJw3dD0++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/FOB_CCTV_Emulator_Prefix-ewtkjvixrcryrcgtkgrufmfpwopu/FOB_CCTV_Emulator_Prefix.pch.gch0#
+
+CTouch /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app
+s477098398.312357
+e477098398.385938
+r1
+xTouch
+x/Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app
+lSLF07#2@96"Touch /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app477098398#477098398#0(0"0(0#0#0"8603756960#354"    cd /Users/slick_admin/git/FOB-CCTV-Emulator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/slick_admin/git/FOB-CCTV-Emulator/build/Debug-iphonesimulator/FOB-CCTV-Emulator.app0#
+
