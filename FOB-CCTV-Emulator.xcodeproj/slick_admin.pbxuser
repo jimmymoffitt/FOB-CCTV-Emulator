@@ -13,6 +13,13 @@
 			sepNavVisRange = "{0, 267}";
 		};
 	};
+	28D7ACF70DDB3853001CB0EB /* FOB_CCTV_EmulatorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1095.69, 1228}}";
+			sepNavSelRange = "{76, 0}";
+			sepNavVisRange = "{0, 610}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = EDE1F9271C6FDEC100827D0F /* FOB-CCTV-Emulator */;
@@ -22,8 +29,35 @@
 			EDE1F9271C6FDEC100827D0F /* FOB-CCTV-Emulator */,
 		);
 		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					504,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
 			PBXPerProjectTemplateStateSaveDate = 477093569;
 			PBXWorkspaceStateSaveDate = 477093569;
+		};
+		perUserProjectItems = {
+			EDE1F93B1C6FE44500827D0F /* PBXTextBookmark */ = EDE1F93B1C6FE44500827D0F /* PBXTextBookmark */;
+			EDE1F93C1C6FE44500827D0F /* PBXBookmark */ = EDE1F93C1C6FE44500827D0F /* PBXBookmark */;
+			EDE1F93D1C6FE44500827D0F /* PBXTextBookmark */ = EDE1F93D1C6FE44500827D0F /* PBXTextBookmark */;
 		};
 		sourceControlManager = EDE1F9391C6FDEE200827D0F /* Source Control */;
 		userBuildSettings = {
@@ -69,5 +103,29 @@
 	EDE1F93A1C6FDEE200827D0F /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	EDE1F93B1C6FE44500827D0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FOB_CCTV_EmulatorViewController.h */;
+		name = "FOB_CCTV_EmulatorViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	EDE1F93C1C6FE44500827D0F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FOB_CCTV_EmulatorViewController.m */;
+	};
+	EDE1F93D1C6FE44500827D0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FOB_CCTV_EmulatorViewController.m */;
+		name = "FOB_CCTV_EmulatorViewController.m: 4";
+		rLen = 0;
+		rLoc = 76;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
 	};
 }
