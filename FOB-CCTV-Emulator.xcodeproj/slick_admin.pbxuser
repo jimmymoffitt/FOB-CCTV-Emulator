@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* FOB-CCTV-Emulator */ = {
+		activeExec = 0;
+		executables = (
+			EDE1F9271C6FDEC100827D0F /* FOB-CCTV-Emulator */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FOB_CCTV_EmulatorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 267}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EDE1F9271C6FDEC100827D0F /* FOB-CCTV-Emulator */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FOB-CCTV-Emulator */;
+		codeSenseManager = EDE1F93A1C6FDEE200827D0F /* Code sense */;
+		executables = (
+			EDE1F9271C6FDEC100827D0F /* FOB-CCTV-Emulator */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 477093569;
+			PBXWorkspaceStateSaveDate = 477093569;
+		};
+		sourceControlManager = EDE1F9391C6FDEE200827D0F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EDE1F9271C6FDEC100827D0F /* FOB-CCTV-Emulator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "FOB-CCTV-Emulator";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EDE1F9391C6FDEE200827D0F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EDE1F93A1C6FDEE200827D0F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
